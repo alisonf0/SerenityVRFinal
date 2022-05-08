@@ -1,0 +1,17 @@
+Fantasy nature pack. Summer.
+This package includes
+2 birch trees with wood texture size (2048x2048) and branches with leafs (512x512)
+Small tree 1400 tris
+Big tree 2200 tris
+1 stylised rock	with texture size (1024x1024) and 358 tris
+2 grass and 2 flowers textures (512x512)
+4 ground textures with size (2048x2048)
+- Grass</br>
+- Grass with fallen leafs
+- Grass with rocks
+- Rocks
+1 particle system (falling leafs)
+
+1 Example scene
+
+Post prosessing effects are not included in this package
